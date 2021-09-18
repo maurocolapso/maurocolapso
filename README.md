@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Mauro and I'm currently working on my data visualization skills in python. Looking forward to colaborate on anything with data. 
+My name is Mauro and I'm currently working on my data visualization skills in python. Looking forward to colaborate on anything with data and plots!
 <!--
 **maurocolapso/maurocolapso** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
