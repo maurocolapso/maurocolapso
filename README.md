@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Mauro and I'm currently working on my data visualization skills in python and R. Looking forward to colaborate on anything with data and plots!
+My name is Mauro and I'm currently working on infrared spectroscopy as a surveillace technique of disease vectors. Looking forward to colaborate on anything with data and plots!
 - 🔭 I’m currently working on spectroscopy and machine learning
 - 🌱 I’m currently learning Deep learning
 - 📫 How to reach me: on Twitter @chinito_colapso
