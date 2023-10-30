@@ -18,3 +18,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: ...
 -->
+
+## Science
+- [Evaluation of diffuse reflectance spectroscopy for predicting age, species, and cuticular resistance of Anopheles gambiae s.l under laboratory conditions](https://github.com/maurocolapso/ML-DRIFT_Pazmino_et_al_2023.git) [![DOI]https://zenodo.org/badge/{github_id}.svg](https://doi.org/10.1038/s41598-023-45696-x)
+- 
+
+
+
+
