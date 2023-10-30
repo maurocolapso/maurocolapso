@@ -20,8 +20,8 @@ Here are some ideas to get you started:
 -->
 
 ## Science
-- [Evaluation of diffuse reflectance spectroscopy for predicting age, species, and cuticular resistance of Anopheles gambiae s.l under laboratory conditions](https://github.com/maurocolapso/ML-DRIFT_Pazmino_et_al_2023.git) [![Generic badge](https://img.shields.io/badge/DOI-<10.1038/s41598>-<COLOR>.svg)]([https://shields.io/](https://doi.org/10.1038/s41598-023-45696-x))
-- 
+- [Evaluation of diffuse reflectance spectroscopy for predicting age, species, and cuticular resistance of Anopheles gambiae s.l under laboratory conditions](https://github.com/maurocolapso/ML-DRIFT_Pazmino_et_al_2023.git) [![DOI:10.1038/s41598-023-45696-x](https://zenodo.org/badge/DOI/10.1038/s41598-023-45696-x.svg)]([https://doi.org/10.1007/978-3-319-76207-4_15](https://rdcu.be/dpNJN))
+
 
 
 
