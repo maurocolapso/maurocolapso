@@ -11,6 +11,10 @@ My name is Mauro. I am a postdoctoral researchver at University of Glasgow. I'm 
 - The relationship between properties of plant-based biochars and sorption of Cd (II), Pb (II) and Zn (II) in soil model systems (2020) [![DOI:10.1016/j.heliyon.2020.e05388](https://zenodo.org/badge/DOI/10.1016/j.heliyon.2020.e05388.svg)]([https://doi.org/10.1016/j.heliyon.2020.e05388](https://www.cell.com/heliyon/pdf/S2405-8440(20)32231-3.pdf))
 - The mosquito electrocuting trap as an exposure-free method for measuring human-biting rates by Aedes mosquito vectors (2020) [![DOI:10.1186/s13071-020-3887-8](https://zenodo.org/badge/DOI/10.1186/s13071-020-3887-8.svg)]([https://doi.org/10.1186/s13071-020-3887-8])
 
+- <a href="https://doi.org/10.1016/j.heliyon.2020.e05388"><img src="https://zenodo.org/badge/DOI/10.1016/j.heliyon.2020.e05388.svg" align="right"/></a> **The relationship between properties of plant-based biochars and sorption of Cd (II), Pb (II) and Zn (II) in soil model systems (2020)**
+
+- <a href="https://doi.org/10.1186/s13071-020-3887-8"><img src="https://zenodo.org/badge/DOI/10.1186/s13071-020-3887-8.svg" align="right"/></a> **The mosquito electrocuting trap as an exposure-free method for measuring human-biting rates by Aedes mosquito vectors (2020)**
+
 ## Posters
   
 
