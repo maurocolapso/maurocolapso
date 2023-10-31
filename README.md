@@ -10,6 +10,8 @@ My name is Mauro. I am a postdoctoral researchver at University of Glasgow. I'm 
 
 - <a href="https://doi.org/10.1007/978-3-319-76207-4_15"><img src="https://zenodo.org/badge/DOI/10.1038/s41598-023-45696-x.svg" align="right"/></a> **[Evaluation of diffuse reflectance spectroscopy for predicting age, species, and cuticular resistance of Anopheles gambiae s.l under laboratory conditions (2023)](https://github.com/maurocolapso/ML-DRIFT_Pazmino_et_al_2023.git)**
 
+- <a href="https://doi.org/10.1007/978-3-031-14190-4_64"><img src="https://zenodo.org/badge/DOI/10.1007/978-3-031-14190-4_64.svg" align="right"/></a> **Changes in Oxygenation Levels During Moderate Altitude Simulation (Hypoxia-Induced): A Pilot Study Investigating the Impact of Skin Pigmentation in Pulse Oximetry (2022)**
+
 - <a href="https://doi.org/10.1016/j.heliyon.2020.e05388"><img src="https://zenodo.org/badge/DOI/10.1016/j.heliyon.2020.e05388.svg" align="right"/></a> **The relationship between properties of plant-based biochars and sorption of Cd (II), Pb (II) and Zn (II) in soil model systems (2020)**
 
 - <a href="https://doi.org/10.1186/s13071-020-3887-8"><img src="https://zenodo.org/badge/DOI/10.1186/s13071-020-3887-8.svg" align="right"/></a> **The mosquito electrocuting trap as an exposure-free method for measuring human-biting rates by Aedes mosquito vectors (2020)**
