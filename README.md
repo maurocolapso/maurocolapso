@@ -16,7 +16,7 @@ My name is Mauro. I am a postdoctoral researchver at University of Glasgow. I'm 
 
 
 ## Appearances on media
-
+- [Cien-talk podcast (in spanish)](https://open.spotify.com/episode/6vhpL34U4w8yukOXgfpfjT?si=5d62eca124494eaf)
 
 [0]: https://www.gla.ac.uk/schools/bohvm/staff/mauropazminobetancourth/
 [1]: https://twitter.com/chinito_colapso
