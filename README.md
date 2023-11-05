@@ -5,6 +5,8 @@ My name is Mauro. I am a postdoctoral researchver at University of Glasgow. I'm 
 - 🌱 I’m currently learning Deep learning
 - 📫 How to reach me: on Twitter @chinito_colapso
 - 😄 Pronouns: he/him
+  
+![](https://komarev.com/ghpvc/?username=maurocolapso)
 
 ## Manuscripts
 
