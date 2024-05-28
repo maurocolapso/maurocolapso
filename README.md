@@ -10,6 +10,10 @@ My name is Mauro. I am a postdoctoral researcher at the University of Glasgow. I
 
 ## Manuscripts
 
+### 2024
+
+- <a href="https://doi.org/10.1371/journal.pntd.0010932"><img src="https://zenodo.org/badge/DOI/10.1371/journal.pntd.0010932.svg" align="right"/></a> **Behaviour and distribution of Aedes aegypti mosquitoes and their relation to dengue incidence in two transmission hotspots in coastal Ecuador (2024)**
+
 ### 2023
 - <a href="https://doi.org/10.1007/978-3-319-76207-4_15"><img src="https://zenodo.org/badge/DOI/10.1038/s41598-023-45696-x.svg" align="right"/></a> **[Evaluation of diffuse reflectance spectroscopy for predicting age, species, and cuticular resistance of Anopheles gambiae s.l under laboratory conditions (2023)](https://github.com/maurocolapso/ML-DRIFT_Pazmino_et_al_2023.git)**
 
