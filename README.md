@@ -12,7 +12,7 @@ My name is Mauro. I am a postdoctoral researcher at the University of Glasgow. I
 
 ### 2024
 
-- <a href="https://doi.org/10.1093/biomethods/bpae058"><img src="https://zenodo.org/badge/DOI/10.1371/journal.pntd.0010932.svg" align="right"/></a> **Advancing age grading techniques for Glossina morsitans morsitans, vectors of African trypanosomiasis, through mid-infrared spectroscopy and machine learning (2024)**
+- <a href="https://doi.org/10.1093/biomethods/bpae058"><img src="https://zenodo.org/badge/DOI/10.1371/journal.pntd.0010932.svg" align="right"/></a> **[Advancing age grading techniques for Glossina morsitans morsitans, vectors of African trypanosomiasis, through mid-infrared spectroscopy and machine learning (2024)](https://github.com/maurocolapso/Pazmino_TsetseMIRS_2023)**
 
 - <a href="https://doi.org/10.1371/journal.pntd.0010932"><img src="https://zenodo.org/badge/DOI/10.1371/journal.pntd.0010932.svg" align="right"/></a> **Behaviour and distribution of Aedes aegypti mosquitoes and their relation to dengue incidence in two transmission hotspots in coastal Ecuador (2024)**
 
