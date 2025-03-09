@@ -1,8 +1,8 @@
 [University profile][0] | [Twitter][1] | [Google scholar][2] |
 
-My name is Mauro. I am a postdoctoral researcher at the University of Glasgow. I'm currently working on infrared spectroscopy as a surveillace technique of disease vectors and how temperature affects aging in Anopheles. 
-- 🔭 I’m currently working on spectroscopy and machine learning
-- 🌱 I’m currently learning Deep learning
+My name is Mauro. I am a postdoctoral researcher at the University of Glasgow. I'm currently working on infrared spectroscopy as a surveillance tool of disease vectors and how temperature affects aging in *Anopheles* mosquitoes 
+- 🔭 I’m currently working on infrared spectroscopy and machine learning
+- 🌱 I’m currently learning Deep learning for computer vision and object identification
 - 📫 How to reach me: on Twitter @chinito_colapso
 - 😄 Pronouns: he/him
   
