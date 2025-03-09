@@ -10,6 +10,10 @@ My name is Mauro. I am a postdoctoral researcher at the University of Glasgow. I
 
 ## Manuscripts
 
+### 2025
+
+- <a href="https://doi.org/10.1093/biomethods/bpae058](https://doi.org/10.3390/spectroscj3010008"><img src="https://zenodo.org/badge/DOI/10.1371/journal.pntd.0010932.svg" align="right"/></a> **[Towards Fast Quantum Cascade Laser Spectrometers for High-Throughput and Cost-Effective Disease Surveillance (2025)](https://github.com/maurocolapso/QCL_Pazminoetal)**
+
 ### 2024
 
 - <a href="https://doi.org/10.1093/biomethods/bpae058"><img src="https://zenodo.org/badge/DOI/10.1371/journal.pntd.0010932.svg" align="right"/></a> **[Advancing age grading techniques for Glossina morsitans morsitans, vectors of African trypanosomiasis, through mid-infrared spectroscopy and machine learning (2024)](https://github.com/maurocolapso/Pazmino_TsetseMIRS_2023)**
